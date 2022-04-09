@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlSms",
@@ -28,7 +28,7 @@
       "Name": "TESTE UPDATE | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "premium01.conecta4g.xyz",
+      "ServerIP": "steissoftware.com.br",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -38,11 +38,11 @@
       "Name": "PREMIUM 02 | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "premium02.conecta4g.xyz",
+      "ServerIP": "projetosevt.xyz",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "teste006",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
