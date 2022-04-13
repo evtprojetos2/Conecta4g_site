@@ -1,20 +1,12 @@
 {
-  "Version": "1.0.2",
-
+  "Version": "1.0.1",
   "ReleaseNotes": "",
-
   "UrlUpdate": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlUpdate",
-
   "Sms": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlSms",
-
   "EmailFeedback": "evtprojetos.suportes@gmail.com",
-
   "UrlContato": "https://t.me/evtprojetos2",
-
   "UrlTermos": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/termos.html",
-
   "CheckUser": "true",
-
   "Udp": [
     {
       "Porta": "7300"
@@ -34,10 +26,11 @@
   ],
   "Servers": [
     {
-      "Name": "TESTE UPDATE | PLUS",
+      "Name": "CONECTA4G | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "steissoftware.com.br",
+      "CheckUser": "http://158.69.235.252:5353/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -45,9 +38,10 @@
     },
     {
       "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
+      "TYPE": "Premium",
+      "FLAG": "ca.png",
       "ServerIP": "projetosevt.xyz",
+      "CheckUser": "http://158.69.235.252:5353/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
