@@ -37,15 +37,26 @@
       "PASS": ""
     },
     {
-      "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "Premium",
+      "Name": "PREMIUM 2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.steissoftware.com.br",
+      "CheckUser": "http://20.226.107.134:5353/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "GRÁTIS",
+      "TYPE": "free",
       "FLAG": "ca.png",
       "ServerIP": "projetosevt.xyz",
       "CheckUser": "http://158.69.235.252:5353/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "User1",
+      "PASS": "User1"
     }
   ],
   "Networks": [
