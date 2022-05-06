@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/evtprojetos2/Conecta4g_site/main/UrlSms",
@@ -100,6 +100,17 @@
       "ProxyPort": "",
       "Info": "Ssl"
     },
+    {
+      "Name": "CLARO",
+      "FLAG": "claro",
+      "Payload": "GET ssl://no.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "no.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+
     {
       "Name": "CLARO SSL 05",
       "FLAG": "claro",
