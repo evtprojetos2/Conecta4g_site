@@ -1,6 +1,6 @@
 {
 
-  "Version": "1.0.2",
+  "Version": "1.0.3",
 
   "ReleaseNotes": "",
 
@@ -60,7 +60,7 @@
 
       "FLAG": "br.png",
 
-      "ServerIP": "steissoftware.com.br",
+      "ServerIP": "br2.steissoftware.com.br",
 
       "CheckUser": "http://20.226.26.234:5353/checkUser",
 
