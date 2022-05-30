@@ -60,9 +60,9 @@
 
       "FLAG": "br.png",
 
-      "ServerIP": "br2.steissoftware.com.br",
+      "ServerIP": "steissoftware.com.br",
 
-      "CheckUser": "http://20.226.26.234:5353/checkUser",
+      "CheckUser": "http://20.226.24.16:5353/checkUser",
 
       "ServerPort": "22",
 
